@@ -1,0 +1,414 @@
+'Abilene-Sweetwater' processing market 
+'Albany' processing market 
+'Albany-Schenectady-Troy' processing market 
+'Albuquerque-Santa Fe' processing market 
+'Alexandria' processing market 
+'Alpena' processing market 
+'Amarillo' processing market 
+'Anchorage' processing market 
+'Atlanta' processing market 
+'Augusta' processing market 
+'Austin' processing market 
+'Baltimore' processing market 
+'Bangor' processing market 
+'Baton Rouge' processing market 
+'Beaumont-Port Arthur' processing market 
+'Billings' processing market 
+'Biloxi-Gulfport' processing market 
+'Binghamton' processing market 
+'Birmingham-Ann-Tuscaloosa' processing market 
+'Bluefield-Beckley-Oak Hill' processing market 
+'Boise' processing market 
+'Boston-Manchester' processing market 
+'Bowling Green' processing market 
+'Buffalo' processing market 
+'Burlington-Plattsburgh' processing market 
+'Butte-Bozeman' processing market 
+'Casper-Riverton' processing market 
+'Cedar Rapids-Waterloo-Dubuque' processing market 
+'Champaign-Springfield-Decatur' processing market 
+'Charleston' processing market 
+'Charleston-Huntington' processing market 
+'Charlotte' processing market 
+'Charlottesville' processing market 
+'Chattanooga' processing market 
+'Cheyenne-Scottsbluff' processing market 
+'Chicago' processing market 
+'Chico-Redding' processing market 
+'Cincinnati' processing market 
+'Clarksburg-Weston' processing market 
+'Cleveland-Akron-Canton' processing market 
+'Colorado Springs-Pueblo' processing market 
+'Columbia' processing market 
+'Columbia-Jefferson City' processing market 
+'Columbus' processing market 
+'Columbus-Tupelo-West Point' processing market 
+'Columbus-Zanesville' processing market 
+'Corpus Christi-Victoria' processing market 
+'Dallas-Ft. Worth' processing market 
+'Davenport-Rock Island-Moline' processing market 
+'Dayton' processing market 
+'Denver' processing market 
+'Des Moines-Ames' processing market 
+'Detroit' processing market 
+'Dothan' processing market 
+'Duluth-Superior' processing market 
+'El Paso' processing market 
+'Elmira' processing market 
+'Erie' processing market 
+'Eugene-Bend' processing market 
+'Eureka' processing market 
+'Evansville' processing market 
+'Fairbanks' processing market 
+'Fargo-Valley City' processing market 
+'Flint-Saginaw-Bay City' processing market 
+'Fresno-Visalia' processing market 
+'Ft. Myers-Naples' processing market 
+'Ft. Smith-Fayetteville-Springdale-Rogers' processing market 
+'Ft. Wayne' processing market 
+'Gainesville' processing market 
+'Glendive' processing market 
+'Grand Junction-Montrose' processing market 
+'Grand Rapids-Kalamazoo-Battle Creek' processing market 
+'Great Falls' processing market 
+'Green Bay-Appleton' processing market 
+'Greensboro-High Point-Winston Salem' processing market 
+'Greenville-New Bern-Washington' processing market 
+'Greenville-Spartanburg-Asheville-Anderson' processing market 
+'Greenwood-Greenville' processing market 
+'Harlingen-McAllen-Brownsville' processing market 
+'Harrisburg-Lancaster-Lebanon-York' processing market 
+'Harrisonburg' processing market 
+'Hartford-New Haven' processing market 
+'Hattiesburg-Laurel' processing market 
+'Helena' processing market 
+'Honolulu' processing market 
+'Houston' processing market 
+'Huntsville-Decatur-Florence' processing market 
+'Idaho Falls-Pocatello' processing market 
+'Indianapolis' processing market 
+'Jackson, MS' processing market 
+'Jackson, TN' processing market 
+'Jacksonville-Brunswick' processing market 
+'Johnstown-Altoona' processing market 
+'Jonesboro' processing market 
+'Joplin-Pittsburg' processing market 
+'Juneau' processing market 
+'Kansas City' processing market 
+'Knoxville' processing market 
+'La Crosse-Eau Claire' processing market 
+'Lafayette, IN' processing market 
+'Lafayette, LA' processing market 
+'Lake Charles' processing market 
+'Lansing' processing market 
+'Laredo' processing market 
+'Las Vegas' processing market 
+'Lexington' processing market 
+'Lima' processing market 
+'Lincoln-Hastings-Kearny' processing market 
+'Little Rock-Pine Bluff' processing market 
+'Los Angeles' processing market 
+'Louisville' processing market 
+'Lubbock' processing market 
+'Macon' processing market 
+'Madison' processing market 
+'Mankato' processing market 
+'Marquette' processing market 
+'Medford-Klamath Falls' processing market 
+'Memphis' processing market 
+'Meridian' processing market 
+'Miami-Ft. Lauderdale' processing market 
+'Milwaukee' processing market 
+'Minneapolis-St. Paul' processing market 
+'Minot-Bismarck-Dickinson' processing market 
+'Missoula' processing market 
+'Mobile-Pensacola' processing market 
+'Monroe-El Dorado' processing market 
+'Monterey-Salinas' processing market 
+'Montgomery-Selma' processing market 
+'Myrtle Beach-Florence' processing market 
+'Nashville' processing market 
+'New Orleans' processing market 
+'New York' processing market 
+'Norfolk-Portsmouth-Newport News' processing market 
+'North Platte' processing market 
+'Odessa-Midland' processing market 
+'Oklahoma City' processing market 
+'Omaha' processing market 
+'Orlando-Daytona Beach-Melbourne' processing market 
+'Ottumwa-Kirksville' processing market 
+'Paducah-Cape Girardeau-Marion-. . . .' processing market 
+'Palm Springs' processing market 
+'Panama City' processing market 
+'Parkersburg' processing market 
+'Peoria-Bloomington' processing market 
+'Philadelphia' processing market 
+'Phoenix' processing market 
+'Pittsburgh' processing market 
+'Portland' processing market 
+'Portland-Auburn' processing market 
+'Presque Isle' processing market 
+'Providence-New Bedford' processing market 
+'Quincy-Hannibal-Keokuk' processing market 
+'Raleigh-Durham-Fayetteville' processing market 
+'Rapid City' processing market 
+'Reno' processing market 
+'Richmond-Petersburg' processing market 
+'Roanoke-Lynchburg' processing market 
+'Rochester' processing market 
+'Rochester-Mason City-Austin' processing market 
+'Rockford' processing market 
+'Sacramento-Stockton-Modesto' processing market 
+'Salisbury' processing market 
+'Salt Lake City' processing market 
+'San Angelo' processing market 
+'San Antonio' processing market 
+'San Diego' processing market 
+'San Francisco-Oakland-San Jose' processing market 
+'Santa Barbara-Santa Maria-. . . .' processing market 
+'Savannah' processing market 
+'Seattle-Tacoma' processing market 
+'Sherman-Ada' processing market 
+'Shreveport' processing market 
+'Sioux City' processing market 
+'Sioux Falls-Mitchell' processing market 
+'South Bend-Elkhart-Benton Harbor' processing market 
+'Spokane' processing market 
+'Springfield' processing market 
+'Springfield-Holyoke' processing market 
+'St. Joseph' processing market 
+'St. Louis' processing market 
+'Syracuse' processing market 
+'Tallahassee-Thomasville' processing market 
+'Tampa-St. Petersburg Sarasota' processing market 
+'Terre Haute' processing market 
+'Toledo' processing market 
+'Topeka' processing market 
+'Traverse City-Cadillac' processing market 
+'Tri-Cities' processing market 
+'Tucson-Sierra Vista' processing market 
+'Tulsa' processing market 
+'Twin Falls' processing market 
+'Tyler-Longview-Lufkin-Nacogdoches' processing market 
+'Utica' processing market 
+'Waco-Temple-Bryan' processing market 
+'Washington DC' processing market 
+'Watertown' processing market 
+'Wausau-Rhinelander' processing market 
+'West Palm Beach-Ft. Pierce' processing market 
+'Wheeling-Steubenville' processing market 
+'Wichita Falls-Lawton' processing market 
+'Wichita-Hutchinson' processing market 
+'Wilkes Barre-Scranton' processing market 
+'Wilmington' processing market 
+'Yakima-Pasco-Richland-Kennewick' processing market 
+'Youngstown' processing market 
+'Yuma-El Centro' processing market 
+'Puerto Rico' processing market 
+'Abilene-Sweetwater' processing zip codes 
+'Biloxi-Gulfport' processing zip codes 
+'Billings' processing zip codes 
+'Beaumont-Port Arthur' processing zip codes 
+'Baton Rouge' processing zip codes 
+'Birmingham-Ann-Tuscaloosa' processing zip codes 
+'Bluefield-Beckley-Oak Hill' processing zip codes 
+'Bowling Green' processing zip codes 
+'Boise' processing zip codes 
+'Boston-Manchester' processing zip codes 
+'Buffalo' processing zip codes 
+'Binghamton' processing zip codes 
+'Bangor' processing zip codes 
+'Baltimore' processing zip codes 
+'Austin' processing zip codes 
+'Augusta' processing zip codes 
+'Puerto Rico' processing zip codes 
+'Youngstown' processing zip codes 
+'Yuma-El Centro' processing zip codes 
+'Wilmington' processing zip codes 
+'Yakima-Pasco-Richland-Kennewick' processing zip codes 
+'Wichita-Hutchinson' processing zip codes 
+'Wichita Falls-Lawton' processing zip codes 
+'Wilkes Barre-Scranton' processing zip codes 
+'Watertown' processing zip codes 
+'West Palm Beach-Ft. Pierce' processing zip codes 
+'Wheeling-Steubenville' processing zip codes 
+'Wausau-Rhinelander' processing zip codes 
+'Utica' processing zip codes 
+'Tyler-Longview-Lufkin-Nacogdoches' processing zip codes 
+'Waco-Temple-Bryan' processing zip codes 
+'Washington DC' processing zip codes 
+'Twin Falls' processing zip codes 
+'Tri-Cities' processing zip codes 
+'Tucson-Sierra Vista' processing zip codes 
+'Tulsa' processing zip codes 
+'Traverse City-Cadillac' processing zip codes 
+'Topeka' processing zip codes 
+'Toledo' processing zip codes 
+'Terre Haute' processing zip codes 
+'Tampa-St. Petersburg Sarasota' processing zip codes 
+'Tallahassee-Thomasville' processing zip codes 
+'Syracuse' processing zip codes 
+'St. Louis' processing zip codes 
+'St. Joseph' processing zip codes 
+'Springfield-Holyoke' processing zip codes 
+'Springfield' processing zip codes 
+'Sioux Falls-Mitchell' processing zip codes 
+'Sioux City' processing zip codes 
+'South Bend-Elkhart-Benton Harbor' processing zip codes 
+'Shreveport' processing zip codes 
+'Spokane' processing zip codes 
+'Sherman-Ada' processing zip codes 
+'Seattle-Tacoma' processing zip codes 
+'Savannah' processing zip codes 
+'Santa Barbara-Santa Maria-. . . .' processing zip codes 
+'San Francisco-Oakland-San Jose' processing zip codes 
+'San Diego' processing zip codes 
+'San Antonio' processing zip codes 
+'Salt Lake City' processing zip codes 
+'Salisbury' processing zip codes 
+'Sacramento-Stockton-Modesto' processing zip codes 
+'San Angelo' processing zip codes 
+'Rockford' processing zip codes 
+'Rochester-Mason City-Austin' processing zip codes 
+'Rochester' processing zip codes 
+'Roanoke-Lynchburg' processing zip codes 
+'Richmond-Petersburg' processing zip codes 
+'Reno' processing zip codes 
+'Rapid City' processing zip codes 
+'Raleigh-Durham-Fayetteville' processing zip codes 
+'Quincy-Hannibal-Keokuk' processing zip codes 
+'Providence-New Bedford' processing zip codes 
+'Presque Isle' processing zip codes 
+'Portland-Auburn' processing zip codes 
+'Portland' processing zip codes 
+'Pittsburgh' processing zip codes 
+'Phoenix' processing zip codes 
+'Philadelphia' processing zip codes 
+'Peoria-Bloomington' processing zip codes 
+'Parkersburg' processing zip codes 
+'Panama City' processing zip codes 
+'Palm Springs' processing zip codes 
+'Paducah-Cape Girardeau-Marion-. . . .' processing zip codes 
+'Ottumwa-Kirksville' processing zip codes 
+'Orlando-Daytona Beach-Melbourne' processing zip codes 
+'Omaha' processing zip codes 
+'Oklahoma City' processing zip codes 
+'Odessa-Midland' processing zip codes 
+'North Platte' processing zip codes 
+'Norfolk-Portsmouth-Newport News' processing zip codes 
+'New Orleans' processing zip codes 
+'Nashville' processing zip codes 
+'New York' processing zip codes 
+'Myrtle Beach-Florence' processing zip codes 
+'Montgomery-Selma' processing zip codes 
+'Monterey-Salinas' processing zip codes 
+'Mobile-Pensacola' processing zip codes 
+'Monroe-El Dorado' processing zip codes 
+'Missoula' processing zip codes 
+'Milwaukee' processing zip codes 
+'Minot-Bismarck-Dickinson' processing zip codes 
+'Medford-Klamath Falls' processing zip codes 
+'Miami-Ft. Lauderdale' processing zip codes 
+'Memphis' processing zip codes 
+'Mankato' processing zip codes 
+'Minneapolis-St. Paul' processing zip codes 
+'Marquette' processing zip codes 
+'Meridian' processing zip codes 
+'Macon' processing zip codes 
+'Louisville' processing zip codes 
+'Lubbock' processing zip codes 
+'Los Angeles' processing zip codes 
+'Little Rock-Pine Bluff' processing zip codes 
+'Lexington' processing zip codes 
+'Madison' processing zip codes 
+'Lincoln-Hastings-Kearny' processing zip codes 
+'Lima' processing zip codes 
+'Las Vegas' processing zip codes 
+'Lansing' processing zip codes 
+'Lake Charles' processing zip codes 
+'Laredo' processing zip codes 
+'Lafayette, LA' processing zip codes 
+'La Crosse-Eau Claire' processing zip codes 
+'Lafayette, IN' processing zip codes 
+'Kansas City' processing zip codes 
+'Juneau' processing zip codes 
+'Knoxville' processing zip codes 
+'Joplin-Pittsburg' processing zip codes 
+'Johnstown-Altoona' processing zip codes 
+'Jonesboro' processing zip codes 
+'Jacksonville-Brunswick' processing zip codes 
+'Jackson, MS' processing zip codes 
+'Indianapolis' processing zip codes 
+'Jackson, TN' processing zip codes 
+'Houston' processing zip codes 
+'Huntsville-Decatur-Florence' processing zip codes 
+'Honolulu' processing zip codes 
+'Idaho Falls-Pocatello' processing zip codes 
+'Helena' processing zip codes 
+'Hattiesburg-Laurel' processing zip codes 
+'Hartford-New Haven' processing zip codes 
+'Harrisburg-Lancaster-Lebanon-York' processing zip codes 
+'Harlingen-McAllen-Brownsville' processing zip codes 
+'Greenwood-Greenville' processing zip codes 
+'Harrisonburg' processing zip codes 
+'Greenville-Spartanburg-Asheville-Anderson' processing zip codes 
+'Greenville-New Bern-Washington' processing zip codes 
+'Greensboro-High Point-Winston Salem' processing zip codes 
+'Green Bay-Appleton' processing zip codes 
+'Grand Rapids-Kalamazoo-Battle Creek' processing zip codes 
+'Great Falls' processing zip codes 
+'Grand Junction-Montrose' processing zip codes 
+'Glendive' processing zip codes 
+'Ft. Wayne' processing zip codes 
+'Ft. Smith-Fayetteville-Springdale-Rogers' processing zip codes 
+'Gainesville' processing zip codes 
+'Ft. Myers-Naples' processing zip codes 
+'Fresno-Visalia' processing zip codes 
+'Flint-Saginaw-Bay City' processing zip codes 
+'Fargo-Valley City' processing zip codes 
+'Fairbanks' processing zip codes 
+'Eugene-Bend' processing zip codes 
+'Erie' processing zip codes 
+'Evansville' processing zip codes 
+'Eureka' processing zip codes 
+'Elmira' processing zip codes 
+'El Paso' processing zip codes 
+'Duluth-Superior' processing zip codes 
+'Dothan' processing zip codes 
+'Denver' processing zip codes 
+'Des Moines-Ames' processing zip codes 
+'Dayton' processing zip codes 
+'Detroit' processing zip codes 
+'Davenport-Rock Island-Moline' processing zip codes 
+'Dallas-Ft. Worth' processing zip codes 
+'Corpus Christi-Victoria' processing zip codes 
+'Columbus-Tupelo-West Point' processing zip codes 
+'Columbia-Jefferson City' processing zip codes 
+'Columbus' processing zip codes 
+'Columbus-Zanesville' processing zip codes 
+'Colorado Springs-Pueblo' processing zip codes 
+'Cleveland-Akron-Canton' processing zip codes 
+'Clarksburg-Weston' processing zip codes 
+'Columbia' processing zip codes 
+'Cincinnati' processing zip codes 
+'Chico-Redding' processing zip codes 
+'Chattanooga' processing zip codes 
+'Charlottesville' processing zip codes 
+'Charlotte' processing zip codes 
+'Charleston-Huntington' processing zip codes 
+'Chicago' processing zip codes 
+'Cheyenne-Scottsbluff' processing zip codes 
+'Charleston' processing zip codes 
+'Champaign-Springfield-Decatur' processing zip codes 
+'Cedar Rapids-Waterloo-Dubuque' processing zip codes 
+'Casper-Riverton' processing zip codes 
+'Butte-Bozeman' processing zip codes 
+'Burlington-Plattsburgh' processing zip codes 
+'Atlanta' processing zip codes 
+'Anchorage' processing zip codes 
+'Amarillo' processing zip codes 
+'Alpena' processing zip codes 
+'Alexandria' processing zip codes 
+'Albuquerque-Santa Fe' processing zip codes 
+'Albany-Schenectady-Troy' processing zip codes 
+'Albany' processing zip codes 
